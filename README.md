@@ -4,7 +4,7 @@
 
 __AE-SIS-001 Administración de Usuarios__
 1. Tipos de usuario:   
-Se determina una escala de niveles de usuarios para todos los sistemas y equipos utilizados en Novocap. 
+Se determina una escala de niveles de usuarios para todos los sistemas y equipos utilizados. 
 Excepto el "Nivel 0", presente en todos los sistemas y equipos que utilicen perfiles de usuarios, algunos sistemas o equipos en particular y dependiendo de su nivel de parametrización, podría no disponer de alguno de los niveles que se detallan a continuación.
 
     * __Nivel 0: `Administrador`__ Usuario con perfil de acceso total y sin restricciones a todas las funcionalidades disponibles en el sistema/equipo.
